@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NABA")(type "KiCad")(uri "${KIPRJMOD}/../KicadLibrary/NABA.kicad_sym")(options "")(descr ""))
+)
