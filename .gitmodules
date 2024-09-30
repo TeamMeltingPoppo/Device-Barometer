@@ -1,0 +1,6 @@
+[submodule "src/twelite/TweliteLibrary"]
+	path = src/twelite/TweliteLibrary
+	url = https://github.com/BirdmanTeamNaba/TweliteLibrary
+[submodule "circuit/KicadLibrary"]
+	path = circuit/KicadLibrary
+	url = https://github.com/BirdmanTeamNaba/KicadLibrary
